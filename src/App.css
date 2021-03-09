@@ -1,3 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&family=RocknRoll+One&display=swap');
+
+*{
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
 .App {
   text-align: center;
+  font-family: 'Roboto Slab', serif;
+  background-image: url('https://www.nyacknewsandviews.com/wp-content/uploads/2016/03/trump-600x450.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
